@@ -57,3 +57,14 @@ Place the trained checkpoint next to `app.py` as `model.pt`.
 
 ## License
 Code: MIT. Dataset: see the Kaggle dataset page for its terms.
+
+
+## Project Screenshots
+
+### Gradio Interface
+
+![Gradio Interface](Screenshot%202026-10-27%20024425.png)
+
+### Model Evaluation
+
+![Model Evaluation](Screenshot%202026-10-27%20024447.png)
